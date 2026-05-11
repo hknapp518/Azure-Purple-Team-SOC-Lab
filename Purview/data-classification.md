@@ -5,7 +5,6 @@ The goal of this project was to identify, classify, and govern sensitive healthc
 
 This implementation demonstrates how organizations can improve visibility into sensitive data stored across enterprise environments while supporting regulatory and compliance requirements.
 
----
 
 # Data Discovery & Classification
 
@@ -21,7 +20,6 @@ The scan identified multiple sensitive data fields including:
 
 The classification process improves organizational visibility into where sensitive data exists and helps support data governance initiatives.
 
----
 
 # Security Value
 
@@ -34,7 +32,6 @@ This implementation demonstrates how organizations can:
 - Identify regulated healthcare and financial data
 - Improve security auditing and reporting capabilities
 
----
 
 # Compliance Alignment
 
@@ -45,7 +42,6 @@ This project aligns with:
 - CMMC Level 2
 - Microsoft Security Best Practices
 
----
 
 # Key Governance Benefits
 
