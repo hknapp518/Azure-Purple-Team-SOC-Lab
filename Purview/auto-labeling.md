@@ -1,3 +1,4 @@
+
 # Microsoft Purview Auto-Labeling Policy
 
 ## Objective
@@ -69,5 +70,6 @@ This project aligns with security and compliance frameworks including:
 - HIPAA
 - PCI-DSS
 
+<img width="1220" height="593" alt="Purview Auto labeling policy" src="https://github.com/user-attachments/assets/5628aa20-73bc-4deb-b586-8a249f72d3b9" />
 
 
