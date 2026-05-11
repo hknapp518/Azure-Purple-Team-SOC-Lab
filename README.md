@@ -1,9 +1,22 @@
-# Azure-Purple-Team-SOC-Lab
+# Azure-Cloud-Security-and-Compliance-Lab
 
 ## Overview
-This project is a Purple Team SOC lab built in Microsoft Azure. It simulates identity-based attacks, detects malicious activity using Microsoft Sentinel, and automates incident response workflows to replicate real-world SOC operations.
 
-The lab focuses on cloud identity security, SIEM detection engineering, and automated response using a full attack → detect → respond → improve cycle.
+This project demonstrates a  Microsoft cloud security and compliance lab focused on identity protection, threat detection, data governance, and regulatory alignment within Azure and Microsoft 365 environments.
+
+The lab was designed to simulate security operations and compliance controls commonly used in regulated enterprise environments, including healthcare, financial, and government-focused organizations.
+
+Key areas covered in this project include:
+- Microsoft Entra ID identity security
+- Conditional Access and MFA enforcement
+- Microsoft Defender threat investigation and response
+- Microsoft Purview data governance and protection
+- Sensitivity labels and auto-labeling policies
+- Data Loss Prevention (DLP)
+- Security monitoring and incident response workflows
+- Compliance alignment with NIST 800-171 and CMMC Level 2
+
+The goal of this lab is to demonstrate practical experience with Microsoft security technologies used to reduce attack surface, protect sensitive data, automate governance, and improve organizational security posture.
 
 
 
