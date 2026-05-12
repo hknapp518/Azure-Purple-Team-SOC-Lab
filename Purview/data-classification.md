@@ -53,3 +53,5 @@ Sensitive healthcare and personal data can be identified and protected before un
 
 ## Compliance Support
 Classification results support auditing, regulatory reporting, and governance initiatives within regulated environments.
+
+<img width="1072" height="724" alt="clinical trial scan asset discovery classifications" src="https://github.com/user-attachments/assets/d66363ba-db3f-4e78-9353-8aa9dcf24195" />
